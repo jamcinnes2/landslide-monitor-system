@@ -1,2 +1,2 @@
-# remote-pcr-sensor
-firmware and files for remote PCR sensors and telemetry
+# Low Cost Landslide Sensor Monitoring System
+firmware, CAD, code, and other files for low cost remote sensor system with telemetry.
