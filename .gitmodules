@@ -1,0 +1,6 @@
+[submodule "hhbaseserver"]
+	path = hhbaseserver
+	url = https://github.com/jamcinnes2/hhbaseserver.git
+[submodule "pcrsensor_rak4631"]
+	path = pcrsensor_rak4631
+	url = https://github.com/jamcinnes2/pcrsensor_rak4631.git
